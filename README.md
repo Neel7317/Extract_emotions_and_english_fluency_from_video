@@ -37,5 +37,4 @@ Output will be save in png file and vizualize as below..
 ![b](https://user-images.githubusercontent.com/65647192/146376681-7d6ccd36-c6e1-4d7e-9b0a-23fef4d16a8a.png)
 ![c](https://user-images.githubusercontent.com/65647192/146376685-5be99920-1429-453b-af0f-0d344aa9dee7.png)
 
-Refences:https://github.com/justinshenk/fer
-https://github.com/krishnaik06/Audio-Classification
+Refences:https://github.com/justinshenk/fer  https://github.com/krishnaik06/Audio-Classification
