@@ -19,7 +19,9 @@ librosa==0.8.1
 plotly==5.4.0
 
 # Extract emotions:
-Run emotion.py file and that will be extract emotions from the each images that you have specify in save_fps parameter..
+Run emotion.py file and provide video name/path as input that video further divided into no of frames and extract emotions from the each frames..
+you can also play with how many frame need to analized with save_fps parameter..
+
 output will be save in png file and vizualize as below..
 ![my](https://user-images.githubusercontent.com/65647192/146373238-a4eef860-a084-4615-9fbe-7a182d7803d3.png)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65647192/146373727-a8b28ebc-7951-414b-a98c-1137838ce755.gif)
