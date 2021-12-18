@@ -19,11 +19,15 @@ librosa==0.8.1
 plotly==5.4.0
 
 # Extract emotions:
-Run emotion.py file and provide video name/path as input that video further divided into no of frames and extract emotions from the each frames..
+Created this application for the professional networking site. Where user will record his/her video resume within given time constrains using mobile or can upload prerecorded video too. This code will run in backend so HR or recruitment team can easily find perticular candidate english fluency level as well as the emotions from complete video. HR/Recruitment team will get chart so it make more sense as well as user can see that chart so he/she can improve skills.
+
+Run emotion.py file and provide video name/path as input that video further divided into no of frames and extract emotions from the each frames and made prediction over each frame and finally build chart as below.
 you can also play with how many frame need to analized with save_fps parameter..
 
-output will be save in png file and vizualize as below..
+# output will be save in png file and vizualize as below..
 ![my](https://user-images.githubusercontent.com/65647192/146373238-a4eef860-a084-4615-9fbe-7a182d7803d3.png)
+
+# Analysis over each frame look like this..
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65647192/146373727-a8b28ebc-7951-414b-a98c-1137838ce755.gif)
 
 # For English Fluency:
