@@ -31,9 +31,9 @@ you can also play with how many frame need to analized with save_fps parameter..
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65647192/146373727-a8b28ebc-7951-414b-a98c-1137838ce755.gif)
 
 # For English Fluency:
-Run fluency.py file and that will extract audio from video that you given as input and further that audio will pass for classification and based on audio feature it classify into Beginner, Intermediate, Advanced Level of english speaking fluency..( model accuracy is 89% )
+Run fluency.py file and that will extract audio from video that you given as input and further that audio will pass for classification and based on audio feature it classify into Beginner, Intermediate, Advanced Level of english speaking fluency..( model accuracy is 92% which is 9% higher then previously trained model)
 
-Audio Features:
+Audio Features will look like this:
 ![download](https://user-images.githubusercontent.com/65647192/146375652-a48251b0-a4d8-4213-8573-69171992f30e.png)
 
 
